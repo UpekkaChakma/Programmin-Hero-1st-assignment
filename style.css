@@ -1,0 +1,125 @@
+body{
+    margin-right: 100px ;
+    font-family: 'Poppins', sans-serif;
+}
+section a{
+    text-decoration: none;
+    font-size: 14px;
+    margin: 14px;
+    padding: 1px;
+    float: right;
+}
+div a{
+    float: left;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    margin: 1px;
+    color:royalblue;
+}
+h2{
+  font-size: 40px;
+  margin: 0px;
+  color: navy;
+}
+h3{
+    margin-left: 255px;
+    color: peru;
+}
+h5{
+    font-size: 30px;
+    color: goldenrod;
+    position: absolute;
+    top: 76%;
+    left: 15%;
+}
+h6{
+    margin-left:330px;
+    margin-bottom: 1px;
+}
+p{
+  color: dimgray;
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+section{
+  height: 30px;
+  margin: 14px;
+  margin-bottom: 40px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    margin: 0px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600; 
+}
+.first-part{
+    font-size: x-large;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.first-part img{
+    margin: 0px;
+    width: 100%;
+}
+.three-website{
+    width: 24%;
+    float: left;
+    margin-top: 30px;
+    margin-left: 2%;
+    margin-bottom: 150px;
+    padding: 1%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+}
+.three-website img{
+    width: 100%;
+}
+#margin-for-three-web{
+    margin-bottom: 300px;
+}
+#section3margin{
+    margin-left: 250px;
+}
+.container {
+    position:relative;
+    margin-left: 75px;
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 60px;
+}
+  
+.container img {
+    width: 100%;
+    height: auto;
+}
+  
+.container .button1 {
+    position: absolute;
+    top: 85%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    background-color: gold;
+    color: white;
+    font-size: 12px;
+    padding: 12px 24px;
+    border-radius: 5px;
+    text-align:center;
+  }
+.lastP{
+      margin-left: 42%;
+  }
+.lastP img{
+    width: 4%;
+}
+#h4-margin{
+    margin-top: 1px;
+    margin-left: 300px;
+    margin-bottom: 5px;
+}
