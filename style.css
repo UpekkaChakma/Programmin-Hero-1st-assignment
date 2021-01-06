@@ -2,6 +2,9 @@ body{
     margin-right: 100px ;
     font-family: 'Poppins', sans-serif;
 }
+.orange-highlight{
+    color: olivedrab;
+}
 section a{
     text-decoration: none;
     font-size: 14px;
@@ -25,7 +28,7 @@ h2{
 }
 h3{
     margin-left: 255px;
-    color: peru;
+    color: indigo;
 }
 h5{
     font-size: 30px;
@@ -113,7 +116,7 @@ section{
     text-align:center;
   }
 .lastP{
-      margin-left: 42%;
+      margin-left: 41%;
   }
 .lastP img{
     width: 4%;
